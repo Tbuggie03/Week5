@@ -6,8 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
 
-            int myFavoriteNumber = 3;
-            int theBestNumber = 17;
+            int myFavoriteNumber = 5;
+            int theBestNumber = 7;
 
             int sum;
 
