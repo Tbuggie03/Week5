@@ -12,3 +12,18 @@ Z:\IGMProfile\Documents\IGME 201\Visual Studio\Week5_Tuesday\Week5_Tuesday\obj\D
 Z:\IGMProfile\Documents\IGME 201\Visual Studio\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\Week5_Tuesday.pdb
 Z:\IGMProfile\Documents\IGME 201\Visual Studio\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\Week5_Tuesday.genruntimeconfig.cache
 Z:\IGMProfile\Documents\IGME 201\Visual Studio\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\ref\Week5_Tuesday.dll
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\bin\Debug\net8.0\Week5_Tuesday.exe
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\bin\Debug\net8.0\Week5_Tuesday.deps.json
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\bin\Debug\net8.0\Week5_Tuesday.runtimeconfig.json
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\bin\Debug\net8.0\Week5_Tuesday.dll
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\bin\Debug\net8.0\Week5_Tuesday.pdb
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\Week5_Tuesday.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\Week5_Tuesday.AssemblyInfoInputs.cache
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\Week5_Tuesday.AssemblyInfo.cs
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\Week5_Tuesday.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\Week5_Tuesday.sourcelink.json
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\Week5_Tuesday.dll
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\refint\Week5_Tuesday.dll
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\Week5_Tuesday.pdb
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\Week5_Tuesday.genruntimeconfig.cache
+Z:\IGMProfile\Documents\IGME 201\Week5\Week5_Tuesday\Week5_Tuesday\obj\Debug\net8.0\ref\Week5_Tuesday.dll

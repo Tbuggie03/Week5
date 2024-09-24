@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\IGMProfile\\Documents\\IGME 201\\Visual Studio\\Week5_Tuesday\\Week5_Tuesday\\Week5_Tuesday.csproj",
+      "projectUniqueName": "Z:\\IGMProfile\\Documents\\IGME 201\\Week5\\Week5_Tuesday\\Week5_Tuesday\\Week5_Tuesday.csproj",
       "projectName": "Week5_Tuesday",
-      "projectPath": "Z:\\IGMProfile\\Documents\\IGME 201\\Visual Studio\\Week5_Tuesday\\Week5_Tuesday\\Week5_Tuesday.csproj",
+      "projectPath": "Z:\\IGMProfile\\Documents\\IGME 201\\Week5\\Week5_Tuesday\\Week5_Tuesday\\Week5_Tuesday.csproj",
       "packagesPath": "D:\\Profiles\\tas3788\\.nuget\\packages\\",
-      "outputPath": "Z:\\IGMProfile\\Documents\\IGME 201\\Visual Studio\\Week5_Tuesday\\Week5_Tuesday\\obj\\",
+      "outputPath": "Z:\\IGMProfile\\Documents\\IGME 201\\Week5\\Week5_Tuesday\\Week5_Tuesday\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "Z:\\IGMProfile\\AppData\\NuGet\\NuGet.Config",
