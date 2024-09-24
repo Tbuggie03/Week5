@@ -13,6 +13,7 @@
 
             sum = myFavoriteNumber + theBestNumber;
 
+            Console.WriteLine("Nick B");
             Console.WriteLine(sum);
         }
     }
